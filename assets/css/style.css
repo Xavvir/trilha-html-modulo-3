@@ -15,7 +15,8 @@ a:hover{
 table{
     border: solid;
     border-radius: 10px;
-    tabe
+    display: flex;
+    justify-content: center;
 }
 
 header{
